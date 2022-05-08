@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "PenguinTranslator (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "PenguinTranslator (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
